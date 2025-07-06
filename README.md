@@ -2,8 +2,6 @@
 
 A modern, responsive typing speed tester web application built with vanilla JavaScript, HTML, and Tailwind CSS.
 
-![Typing Speed Tester Screenshot](https://via.placeholder.com/800x400/1e293b/8b5cf6?text=Speed+Type+App)
-
 ## 🚀 Features
 
 - **Real-time WPM Calculation** - See your words per minute as you type
