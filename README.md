@@ -1,4 +1,4 @@
-# ⚡ Speed Type - Typing Speed Tester
+# [⚡Speed Type - Typing Speed Tester](https://amuqtadir99.github.io/TypingTester/)
 
 A modern, responsive typing speed tester web application built with vanilla JavaScript, HTML, and Tailwind CSS.
 
